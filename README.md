@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Suzuka Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-Misaka)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Yu-Misaka/Yu-Misaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
